@@ -15,8 +15,11 @@ To run this project, please utilize the Firebase and Google services; they will 
 ## SECURITY FAILURES
 
 > All keys have already been invalidated
+> 
 > and the files have been cleaned,
+> 
 > leaving only a note.
+> 
 > To proceed, please read lines 9 - 13.
 
 ## NOTES
